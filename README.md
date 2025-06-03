@@ -1,4 +1,4 @@
-- Hi, I’m @09122008Vcarte
+- Hi, I’m @09122008Vcartephysics
 - I’m currently pursuing a diploma in data science, alongside a BSc. in physics.
 - I’m looking to for internship opportunitues or collaborations in computational physics, or research opportunities
 - How to reach me —> phone: 8910050704
